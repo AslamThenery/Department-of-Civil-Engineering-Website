@@ -225,7 +225,7 @@ ul.submenu li a.active {
 /* //header */
 
 /* banner */
-.banner_w3lspvt {
+.banner {
     background: url(https://images.hdqwalls.com/download/golden-gate-bridge-at-night-time-tw-1920x1080.jpg) no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -234,6 +234,7 @@ ul.submenu li a.active {
     background-size: cover;
     
     min-height: 740px;
+    
 }
 
 .banner-text {
@@ -262,26 +263,9 @@ ul.submenu li a.active {
     font-weight: 1000;
 }
 
-.button-style {
-    padding: 14px 26px;
-    color: #fff;
-    letter-spacing: 1px;
-    border-radius: 0px;
-    -webkit-border-radius: 0px;
-    -o-border-radius: 0px;
-    -ms-border-radius: 0px;
-    -moz-border-radius: 0px;
-    border: 1px solid #fff;
-    font-size: 15px;
-    background: rgba(255, 255, 255, 0.07);
+
 }
 
-.button-style:hover {
-    -webkit-transform: translateY(10px);
-    -ms-transform: translateY(10px);
-    -o-transform: translateY(10px);
-    -ms-transform: translateY(10px);
-    transform: translateY(10px);
 }
 
 /* //banner */
@@ -310,16 +294,7 @@ h3.title {
     position: relative;
 }
 
-h3.title:after {
-    position: absolute;
-    background: #fff;
-    height: 2px;
-    width: 80px;
-    content: "";
-    bottom: -10px;
-    left: 0;
-    right: 0;
-    margin: 0 auto;
+
 }
 
 /* //title */
