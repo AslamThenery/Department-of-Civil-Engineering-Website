@@ -226,14 +226,14 @@ ul.submenu li a.active {
 
 /* banner */
 .banner_w3lspvt {
-    background: url(https://wallpapercave.com/wp/wp4570063.png) no-repeat center;
+    background: url(https://images.hdqwalls.com/download/golden-gate-bridge-at-night-time-tw-1920x1080.jpg) no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
     background-size: cover;
     
-    min-height: 7400px;
+    min-height: 740px;
 }
 
 .banner-text {
@@ -1185,12 +1185,15 @@ a.blog-btn {
 
 .civilians{
     color: #fdfbfb;
-    font-size: 78px;
-    margin-bottom: 11px;
-    margin-left: 72px;
-    font-weight: 700;
+    font-size: 55px;
+    margin-top: -68px;
+    margin-left: 77px;
+    font-weight: 900px;
     font-family: -webkit-pictograph;
-    letter-spacing: 8px;
+    letter-spacing: 1px;
+    font-weight:700px ;
+    text-decoration: none;
+    font-bold
 }
 .civilians:hover{
     color: orange;
@@ -1206,6 +1209,10 @@ a.blog-btn {
 .copy{
     margin-bottom: 100px;
 }
+.heading{
+    margin-top: -65px;
+}
+
 
 
 
